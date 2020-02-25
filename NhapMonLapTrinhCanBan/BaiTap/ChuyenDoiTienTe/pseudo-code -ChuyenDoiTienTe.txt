@@ -1,0 +1,5 @@
+Begin
+ input $
+ VND = $ * 23000
+ display "VND"
+end

@@ -1,0 +1,10 @@
+Begin
+ input a,b,c
+ max = a    
+ esle
+ max = b if  b > a
+ esle
+ max = c if  c > b
+ display max
+end
+	

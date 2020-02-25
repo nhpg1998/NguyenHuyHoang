@@ -1,0 +1,5 @@
+Begin
+ input a,b,c
+ d = (a + b + c)/3
+ display "d"
+end
