@@ -1,0 +1,5 @@
+Begin
+ Input C
+ C/5 = (F-32)/9
+ Display C
+End
